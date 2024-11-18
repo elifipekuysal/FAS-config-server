@@ -1,1 +1,1 @@
-# FAS-config-server
+# config-server
